@@ -1,0 +1,8 @@
+app/application_data/input_image/input_image.jpg
+app/application_data/verification_images
+app/siamesemodel.keras
+app/siamesemodelv2.keras
+app/siamesemodelv3.keras
+app/__pycache__
+data/anchor
+data/positive
